@@ -1,12 +1,14 @@
 import itertools
 
+#Part1
 data = [int(x) for x in open("input.txt").readlines()]
 print(sum(data))
 
-freq = 0
-seen = {0}
-for num in itertools.cycle(data):
-    freq += num
-    if freq in seen:
-        print(freq); break
-    seen.add(freq)
+#Part2
+frequency = 0
+accumulator = {0}
+for count in itertools.cycle(data):
+    frequency += count
+    if frequency in accumulator:
+        print(frequency); break
+    accumulator.add(frequency)
