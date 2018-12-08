@@ -10,4 +10,5 @@
 * Day1 complete!
 * Day2 complete!
 
-test
+### Use python and VPS to grab AOC input data
+https://github.com/wimglenn/advent-of-code-data?files=1
