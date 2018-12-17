@@ -9,6 +9,25 @@
 ## First time doing AOC in PYTHON!
 * Day1 complete!
 * Day2 complete!
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+* Day 
+
 
 ### Use python and VPS to grab AOC input data
 https://github.com/wimglenn/advent-of-code-data?files=1
